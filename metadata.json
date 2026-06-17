@@ -1,0 +1,6 @@
+{
+  "name": "Subconscious Tracker",
+  "description": "A mindful subconscious discipline tool based on subconscious law practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
